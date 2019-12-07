@@ -4,4 +4,4 @@ I have achieved so far using animate.css and wow javascript file.
 
 Please have a look at my portfolio on this link:
 
-
+https://itlancer999.github.io/animate-portfolio/
