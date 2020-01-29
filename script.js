@@ -1,16 +1,6 @@
 jQuery(document).ready(function(){
 didScroll = true;
 
-//preloader
-   jQuery(window).on("load", function(){
-    jQuery("#preloader").fadeOut("slow");
-  });
-
-
-   //ANIMATE TEXT
-
-  
-
 
  // Transition effect for navbar
           $(window).scroll(function() {
