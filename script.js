@@ -34,7 +34,8 @@ $(".btn-close").click(function(e){
     $("body").removeClass("offcanvas-active");
 });
 
-$(".nav-link").click(function(e){
+$(".offcan").click(function(e){
+
     $(".navbar-collapse").removeClass("show");
     $("body").removeClass("offcanvas-active");
 }); 
