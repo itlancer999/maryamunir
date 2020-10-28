@@ -38,6 +38,7 @@ $(".nav-link").click(function(e){
     $(".navbar-collapse").removeClass("show");
     $("body").removeClass("offcanvas-active");
 }); 
+  });
 	
 	//SUBMIT BUTTON
 	
@@ -70,4 +71,4 @@ $(".nav-link").click(function(e){
 	});
 
 });
-
+});
