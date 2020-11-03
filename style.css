@@ -209,6 +209,13 @@ hr{
 
 }
 
+.logo-row{
+	
+	justify-content: center;
+	align-items: center;
+	margin: 20px 0;
+}
+
 .view-logo{
 	background-color:#3f3f3f;
 	border:.5px solid #000000;
