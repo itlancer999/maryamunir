@@ -314,7 +314,7 @@ padding-right:20px;
 
 .skillbar-bar {
 	height:15px;
-	width:0px;
+	
 	background:#6adcfa;
 	border-radius:17px;
 	
@@ -396,5 +396,29 @@ padding-right:20px;
   	color:#F8ED46;
   	border-color:#F8ED46; 
   }
+	
+	  .logo-img
+{
+	width:80px;
+	height:80px;
+}
 
+}
+
+@media screen and (max-width:640px){
+
+		html,body
+{
+    width: 100%;
+    height: 100%;
+}
+  .logo-img
+{
+	width:60px;
+	height:60px;
+}
+.side{
+	justify-content: center;
+	align-items: center;
+}
 }
