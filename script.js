@@ -46,7 +46,8 @@ $(".offcan").click(function(e){
      $("#gform").on('submit',function(e){
         alert("Form submitted");
    
-
+	//Reset Form
+	$("#gform").trigger("reset");
     });
 
 //scroll animation
